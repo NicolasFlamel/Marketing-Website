@@ -1,21 +1,21 @@
-# Code Refactor Starter Code
+# Horiseon Marketing Website
 
-## User Story
+## Description
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+This project focused on making a marketing agency's website follow accessibility standards so it is optimized for search engines.
 
-## Acceptance Criteria
+## Installation
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+N/A
+
+## Usage
+
+You can look through the code and take note of semantic HTML elements used along with a logical structure. You can also view the pull requests done and see the changes and updates done to the code to get it up to accessibility standards along with some optimizations done in the CSS code due to redundancies. 
+
+## Credits
+
+N/A
+
+## License
+
+N/A
